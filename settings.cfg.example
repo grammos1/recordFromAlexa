@@ -1,0 +1,9 @@
+[DEFAULT]
+trimstart = 20
+stream = http://stream_to_record_from
+server = server.hosting.podcastgenerator
+user = username
+password = 1password
+podcastpath = /var/www/radio-podcasts/media/
+podcastrefreshurl=http://server.hosting.podcastgenerator/radio-podcasts/pg-cron.php?key=cpw42is9
+
